@@ -1,70 +1,41 @@
-# Getting Started with Create React App
+Link: https://adopt-me-eight-tau.vercel.app/
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+# ADOPT_ME ( A React and Firebase based pet adoption website )
+----
+With Adopt-Me, I set out to create a pet adoption platform that is both user-friendly and comprehensive in its features. Through my expertise in full-stack development, I built a site that includes authentication, pet uploading and requesting, and sophisticated search functionality by zip code and animal category. The platform enables users to find the perfect pet with ease and make a meaningful impact in their community.
 
-In the project directory, you can run:
 
-### `npm start`
+#### Clone
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- Clone this repo to your local machine.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+#### Run server locally
 
-### `npm test`
+```shell
+$ npm install
+$ npm start
+```
+> Go to localhost:3000
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+---
 
-### `npm run build`
+## Features 📋
+⚡️ SignUp and SignIn option.\
+⚡️ Google SignUp and SignIn option.\
+⚡️ Adopt pet, view detailed information of pet and user who has uploaded it.\
+⚡️ Filter pets based on zip code and animal category.\
+⚡️ Request pets.\
+⚡️ Upload pets of your locality to give them a home.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+# adopt-me
+An initiative to adopt stray animals as pets instead of buying them
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![Screenshot (918)](https://user-images.githubusercontent.com/77433607/230284292-10f53140-f3ce-4119-bd27-1168b1868173.png)
+![Screenshot (919)](https://user-images.githubusercontent.com/77433607/230284297-06c8b64d-c06f-40aa-a72d-0aac888e35b0.png)
+![Screenshot (920)](https://user-images.githubusercontent.com/77433607/230284305-4b6262da-2593-4c50-9f6c-b237adedac16.png)
+![Screenshot (922)](https://user-images.githubusercontent.com/77433607/230284310-4aceb940-6340-4f6b-956f-84a8467a8438.png)
+![Screenshot (923)](https://user-images.githubusercontent.com/77433607/230284314-bed024b9-b7b6-4093-9d8f-c5600f38cf27.png)
