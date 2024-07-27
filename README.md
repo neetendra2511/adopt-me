@@ -1,5 +1,3 @@
-Link: https://adopt-me-eight-tau.vercel.app/
-
 
 # ADOPT_ME ( A React and Firebase based pet adoption website )
 ----
